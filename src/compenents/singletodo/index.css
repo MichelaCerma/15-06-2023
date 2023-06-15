@@ -1,0 +1,20 @@
+.singleTodo {
+  padding: 20px;
+  background-color: #02182b;
+  border-radius: 20px;
+  display: flex;
+  color: white;
+  justify-content: space-between;
+  align-items: center;
+}
+.todo_title {
+}
+input[type="checkbox"] {
+  accent-color: rgb(6, 23, 85);
+}
+.true {
+  background-color: #0197f6;
+}
+.false {
+  background-color: #242a47;
+}

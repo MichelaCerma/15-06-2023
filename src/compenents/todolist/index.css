@@ -1,0 +1,17 @@
+.singleColumn {
+  height: 100vh;
+  scroll-behavior: auto;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.columnTitle {
+  position: sticky;
+  top: 0;
+  background-color: #02182b;
+  text-transform: capitalize;
+  padding: 10px;
+  color: white;
+  font-size: 1.2rem;
+}
